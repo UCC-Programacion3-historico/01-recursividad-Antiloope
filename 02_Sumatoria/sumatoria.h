@@ -1,6 +1,7 @@
 #ifndef SUMATORIA_H
 #define SUMATORIA_H
 
+#include <iostream>
 
 int sumatoria(int *arr, unsigned int size);
 
